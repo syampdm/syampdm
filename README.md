@@ -1,0 +1,5 @@
+- 👋 Hi, I’m syam
+- 👀 I’m interested in Data Science, Artificial Inteligence, Machine Learning and Neural Networks
+- 🌱 I’m currently learning Python, Machine Learning, Neural Networks,Power BI,Tableau
+- 💞️ I’m looking to collaborate on topics related to Data Science & Artificial Intelligence
+- 📫 How to reach me on my email syampdm@gmail.com
