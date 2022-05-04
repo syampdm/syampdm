@@ -1,4 +1,4 @@
-- 👋 Hi, I’m syam
+- 👋 Hi, I’m Syam
 - 👀 I’m interested in Data Science, Artificial Inteligence, Machine Learning and Neural Networks
 - 🌱 I’m currently learning Python, Machine Learning, Neural Networks,Power BI,Tableau
 - 💞️ I’m looking to collaborate on topics related to Data Science & Artificial Intelligence
